@@ -2,7 +2,7 @@
 - 👀 I’m interested in Collaborative Game Development. I also really would like to learn about Unity coding.
 - 🌱 I’m currently learning How to use Unreal, Unity, C#, Git, and more!
 - 💞️ I’m looking to collaborate on Game Projects with a team!
-- 📫 If you want to reach me, contact me at my Discord (ScreenySketches#0780) or my email (seand0602@gmail.com)
+- 📫 If you want to reach me, contact me at my Discord (ScreenySketches#0780) or my email (certainlyscreeny@gmail.com)
 
 <!---
 ScreenySketches/ScreenySketches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
